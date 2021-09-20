@@ -34,7 +34,7 @@
 
 ## What do we NOT do?
 
-* We don't coach people to crack GSoC. That is not our main objective as a society. If you want to join KOSS because of this sole reason, you are better suited to ask previous GSoCers about the same.
+* We don't coach people to crack GSoC.
        
 * We are not a research based society. We work on Software Development problems, and we use code to ease our approach to achieve our goals. We work on developing projects, which might be helpful for achieving our goals, but all in all, we dont develop projects for the sake of it. We use custom written projects to achieve our goals.
 
