@@ -17,9 +17,9 @@
 
 * We are a bunch of Open Source enthusiasts, who love to share the culture of programming and OSS. Through events and workshops, we try to share the different aspects of Software Engineering.
   
-* While we don't work on project ideas as a group, you can find KOSS members involved in MetaKGP, developing a project helpful to the KGP Community. You can also find members who are motivated to work on funky ideas and projects, which might range from solving a real-world issue, to creating a project for banter or helping out folks learn a new language or framework.
+* While we don't work on project ideas as a group, you can find KOSS members involved in [MetaKGP](https://github.com/metakgp), developing a project helpful to the KGP Community. You can also find members who are motivated to work on funky ideas and projects, which might range from solving a real-world issue, to creating a project for banter or helping out folks learn a new language or framework.
   
-* We nurture an environment where each of us can work on anything that we might want to learn, and in turn, become a fantastic mentor on the subject. Want to learn Frontend? Hop on to a call with [xypnox](https://github.com/xypnox); Want to learn more about Shell Scripting? Ping [grapheo12](https://github.com/grapheo12) is informative to teach you. In fact, each one of us has carved their own specialization and has had their fair share of experience to guide you, so KOSS members are the goto folks.
+* We nurture an environment where each of us can work on anything that we might want to learn, and in turn, become a fantastic mentor on the subject. Each one of us has carved their own specialization and has had their fair share of experience to guide you, so KOSS members are the goto folks.
 
   
 ## What do we do?  
@@ -34,7 +34,7 @@
 
 ## What do we NOT do?
 
-* We don't coach people to crack GSoC.
+* We don't train people to crack any coding competitions or hackathons.
        
 * We are not a research based society. We work on Software Development problems and we use code to ease our approach to achieve our goals. We work on developing projects, which might be helpful for achieving our goals, but all in all, we dont develop projects for the sake of it. We use custom written projects to achieve our goals.
 
