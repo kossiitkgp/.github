@@ -24,8 +24,6 @@
   
 ## What do we do?  
  
-* We are a college society to spread the culture of Open Source.
-
 * We conduct workshops and events to share the culture of OSS with the KGP folks.
 
 * We conduct [KWoC(Kharagpur Winter of Code)](https://kwoc.kossiitkgp.org/) which is a winter long contribution program for new contributors.
